@@ -29,7 +29,7 @@
 
 ## Projeto
 
-Prince table. Projeto feito em HTML e CSS
+Prince table. Projeto feito em HTML e CSS.
 
 ## Tecnologias
 
